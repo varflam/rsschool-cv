@@ -1,3 +1,3 @@
 # rsschool-cv
 
-`https://varflam.github.io/rsschool-cv/cv`
+`https://varflam.github.io/rsschool-cv/`
