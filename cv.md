@@ -5,8 +5,8 @@
 ## Contacts:
 
 **Email**: alece.1414@gmail.com
-**Telegram**: @malfrav
-===
+
+# **Telegram**: @malfrav
 
 ## About me:
 
@@ -22,12 +22,14 @@ Passionate frontend developer. My main tech-stack is React + Redux, but I'm alwa
 - SASS
 - Git
 - Responsive design
-- # REST API
+- REST API
 
 ## Code example:
 
 Given n points on a 2D plane, find if there is such a line parallel to y-axis that reflect the given points.
+
 Example 1: Given points = [[1,1],[-1,1]], return true.
+
 Example 2: Given points = [[1,1],[-1,-1]], return false.
 
 ```
