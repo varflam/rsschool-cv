@@ -2,8 +2,6 @@
 
 ## Junior React Developer
 
-===
-
 ## Contacts:
 
 **Email**: alece.1414@gmail.com
@@ -12,7 +10,7 @@
 
 ## About me:
 
-# Passionate frontend developer. My main tech-stack is React + Redux, but I'm always interested in other technologies.
+Passionate frontend developer. My main tech-stack is React + Redux, but I'm always interested in other technologies.
 
 ## Skills:
 
